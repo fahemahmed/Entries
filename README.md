@@ -1,2 +1,3 @@
 # Entries
-Group -47 Internship Project | IEEE Bombay Section x Alhansat Technologies
+IEEE Bombay Section x Alhansat Technologies
+Group - 47 Internship Project | Kanban board
